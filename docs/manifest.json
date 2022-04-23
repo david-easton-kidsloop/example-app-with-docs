@@ -1,0 +1,22 @@
+{
+    "routes": [
+        {
+            "title": "Example App Doc",
+            "heading": true,
+            "routes": [
+                {
+                    "title": "Getting Started",
+                    "path": "/docs/getting-started.md"
+                },
+                {
+                    "title": "Going to production",
+                    "path": "/docs/going-to-production.md"
+                },
+                {
+                    "title": "Frequently Asked Questions",
+                    "path": "/docs/faq.md"
+                }
+            ]
+        }
+    ]
+}
