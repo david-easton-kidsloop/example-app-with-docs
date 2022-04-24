@@ -5,6 +5,10 @@
             "heading": true,
             "routes": [
                 {
+                    "title": "Initial Doc",
+                    "path": "/docs/initial-doc.md"
+                },
+                {
                     "title": "Getting Started",
                     "path": "/docs/getting-started.md"
                 },
