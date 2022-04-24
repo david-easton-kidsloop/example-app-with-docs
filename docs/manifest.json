@@ -6,7 +6,7 @@
             "routes": [
                 {
                     "title": "Initial Doc",
-                    "path": "/docs/initial-doc.md"
+                    "path": "/docs/README.md"
                 },
                 {
                     "title": "Getting Started",
